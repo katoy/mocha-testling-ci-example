@@ -3,7 +3,7 @@
 Run mocha tests in [all the browsers](http://browserling.com/browsers.json)
 with [testling-ci](http://ci.testling.com).
 
-[![browser support](http://ci.testling.com/substack/mocha-testling-ci-example.png)](http://ci.testling.com/substack/mocha-testling-ci-example)
+[![browser support](http://ci.testling.com/katoy/mocha-testling-ci-example.png)](http://ci.testling.com/katoy/mocha-testling-ci-example)
 
 # usage
 
