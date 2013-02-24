@@ -1,5 +1,7 @@
 // this is the module we're testing
 
-module.exports = function (n) {
+function add(n) {
     return n * n;
 };
+
+module.exports.add = add;
