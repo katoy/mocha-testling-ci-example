@@ -9,7 +9,8 @@
     "devDependencies": {
 	"mocha": ">=1.8.1",
 	"tape": ">=0.2.2",
-	"tap": ">=0.4.0"
+	"tap": ">=0.4.0",
+	"coffee-script": ">=1.4.0"
     },
     "testling": {
 	"browsers": [
@@ -19,11 +20,11 @@
 	    "safari/5.0.5", "safari/5.1"
 	],
 	"harness" : "mocha",
-	"files": "test/*.js"
+	"files": "test/*.coffee"
     },
     
     "scripts": {
-	"test": "mocha test/*.js"
+	"test": "mocha test/*.coffee"
     },
     
     "license": "MIT"
