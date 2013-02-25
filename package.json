@@ -13,7 +13,7 @@
     },
     "testling": {
 	"browsers": [
-	    "ie8", "ie9", "ie10",
+	    "ie9", "ie10",
 	    "firefox/14", "firefox/15", 
 	    "chrome/21", "chrome/22", 
 	    "safari/5.0.5", "safari/5.1"
