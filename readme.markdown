@@ -3,7 +3,7 @@
 Run mocha tests in [all the browsers](http://browserling.com/browsers.json)
 with [testling-ci](http://ci.testling.com).
 
-![browser support](http://ci.testling.com/katoy/mocha-testling-ci-example.png)](http://ci.testling.com/katoy/mocha-testling-ci-example)
+[![browser support](http://ci.testling.com/katoy/mocha-testling-ci-example.png)](http://ci.testling.com/katoy/mocha-testling-ci-example)
 
 
 travis : [![Build Status](https://travis-ci.org/katoy/mocha-testling-ci-example.png?branch=master)](https://travis-ci.org/katoy/mocha-testling-ci-example)  
