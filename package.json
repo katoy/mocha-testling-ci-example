@@ -9,7 +9,7 @@
     "devDependencies": {
 	"mocha": ">=1.8.1",
 	"tape": ">=0.2.2",
-	"tap": ">=0.4.0",
+	"tap": ">=14.8.0",
 	"coffee-script": ">=1.4.0"
     },
     "testling": {
